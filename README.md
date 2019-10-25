@@ -1,6 +1,5 @@
 # Final Project 
 ## **DOC-LOC: The Doctor Finder**
-### **By** Mansi Agrawal, Anish Singh, Ashwin Lakshman, Akhilesh Kashyap.
 
 
 ##User Requirements
